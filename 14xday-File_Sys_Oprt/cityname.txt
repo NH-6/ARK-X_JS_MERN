@@ -1,0 +1,1 @@
+This is the temperature of the random city New York: 0.2  °C
